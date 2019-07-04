@@ -4,10 +4,10 @@ This project provides a automated robot that could perform basic paper drafting 
 
 # Requirements
 
-Python 2.7
-Google Docs
-PuAutoGui Library
-Python Sppech to Text Library
+Python 2.7<br>
+Google Docs<br>
+PuAutoGui Library<br>
+Python Sppech to Text Library<br>
 
 # Usage
 " python ieee.py "
